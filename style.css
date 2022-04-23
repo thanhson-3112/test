@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    background-color: blue;
+}
+ul li{
+    margin-right: 10px ;
+
+}
+
+ul li a{
+    color: red;
+    font-size: 30px;
+    text-decoration:none;
+}
+
+
+.parent{
+    background-color: red;
+    margin: 30px;
+    padding: 10px;
+
+}
+.son1{
+    background-color: #ccc;
+    
+}
